@@ -1,2 +1,2 @@
-# mobile
+# EU SOU MOBILE E BATO DE FRENTE COM QUALQUER UM E TO NA PRO LIGA
 progamação mobile com js
